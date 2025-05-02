@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Use relative path due to Vite proxy '/api'
-const API_URL = 'http://localhost:5000/api'; // Proxied to http://localhost:5000/api
+const API_URL = 'https://clinic-q-server.onrender.com/api'; // Proxied to http://localhost:5000/api
 axios.defaults.withCredentials = true;
 
 export const bookSlot = async (patientName) => {
