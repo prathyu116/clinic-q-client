@@ -76,7 +76,7 @@ function AdminLoginPage({ onLoginSuccess }) {
               </code>
             </p>
             <p className="text-xs font-bold text-red-600 mt-2">
-              (For testing only - Remove in production!)
+{/*               (For testing only - Remove in production!) */}
             </p>
           </div>
         )}
