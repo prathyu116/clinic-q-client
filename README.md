@@ -15,7 +15,6 @@ This directory contains the React frontend for the Clinic Queue Manager applicat
 
 *   Node.js (v16 or later recommended)
 *   npm or yarn
-*   The backend server (`../server`) must be running for the application to function fully.
 
 ## Setup and Installation
 
