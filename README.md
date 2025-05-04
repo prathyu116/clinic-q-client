@@ -47,7 +47,7 @@ This directory contains the React frontend for the Clinic Queue Manager applicat
 
 ## Running the Frontend
 
-1.  **Ensure the backend server (`../server`) is running.**
+1.  **Ensure the backend server is running.**
 2.  **Start the Vite development server:**
     ```bash
     npm run dev
